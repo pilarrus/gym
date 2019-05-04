@@ -1,0 +1,72 @@
+section.instalaciones {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+}
+
+article.explicacion {
+	width: 500px;
+	/*display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;*/
+}
+
+div.contenedor-instalaciones {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
+	margin-top: 20px;
+}
+
+article.zona {
+	width: 520px;
+	height: 200px;
+	border: 1px solid white;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	background-color: white;
+	color: black;
+}
+
+article.zona:hover {
+	background-color: #FF2EA2;
+}
+
+article.zona:hover h3.titulo {
+	display: none;
+}
+
+article.zona:hover img.icono {
+	display: none;
+}
+
+article.zona:hover p.texto{
+	display:block;
+	/*text-align: center;*/
+}
+
+h3.titulo {
+	/*width: 100%;
+	height: 100%;*/
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	/*margin-top: 90px;*/
+}
+
+img.icono {
+
+}
+
+p.texto {
+	display: none;
+	width: 85%;
+	/*height: 100%;
+	background-color: #FF2EA2;*/
+}

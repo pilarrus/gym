@@ -1,0 +1,40 @@
+/*a.link {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+*/
+.contenedor-actividades {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #FF2EA2;
+	padding-bottom: 50px;
+}
+
+
+div.video {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+    background: black;
+}
+
+iframe {
+	/*width: 700px;
+	height: auto;*/
+	border: 1px solid #FF2EA2;
+}
+
+div.descripcion {
+	width: 600px;
+	margin-top: 50px;
+}
+
+div.descripcion p {
+	margin: 5px 0;
+}

@@ -1,0 +1,45 @@
+#monitores {
+	background-color: #FF2EA2;
+}
+
+section.listaMonitores {
+	display: flex;
+	flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF2EA2;
+}
+
+div.monitor {
+	width: 155px;
+	height: 155px;
+	border: 1px solid #FF2EA2;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	margin: 0 2px 0 2px;
+	background-color: black;
+}
+
+div.monitor:hover {
+	width: 175px;
+	height: 175px;
+	
+}
+
+img.monitor-foto {
+	width: 70px;
+}
+
+p.monitor-nombre {
+	margin-top: 10px;
+}
+
+p.monitor-descripcion {
+	margin-top: 10px;
+	text-align: center;
+}

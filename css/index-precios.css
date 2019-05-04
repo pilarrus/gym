@@ -1,0 +1,59 @@
+#precios {
+	background-color: #FF2EA2;
+}
+
+section.contenedor-precios {
+	background-color: #FF2EA2;
+	height: 400px;
+	position: relative;
+}
+
+div.box {
+	width: 360px;
+	height: 150px;
+	background-color: black;
+	border: 1px solid white;
+	padding: 30px;
+	position: absolute;
+
+}
+
+div.box-basica {
+	top: 0;
+	left: 245px;
+}
+
+div.box-exclusiva {
+	top: 185px;
+	left: 590px;
+	height: 130px;
+}
+
+div.box h3 {
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+div.box p {
+	margin-bottom: 15px;
+}
+
+table.tarifas,th.meses,td.euros {
+	border: none;
+}
+
+table.tarifas {
+	width: 360px;
+	color: black;
+}
+
+th.meses {
+	width: 50px;
+	padding: 2px;
+}	
+
+td.euros {
+	width: 50px;
+	padding: 2px;
+	text-align: center;
+}

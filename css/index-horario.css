@@ -1,0 +1,32 @@
+table.horario {
+	width: 1000px;
+	margin-bottom: 20px;
+	color: black;
+	text-align: center;
+}
+
+
+table,th,td {
+	border: 2px solid black;
+	border-collapse: collapse;
+	background-color: white;
+}
+
+th,td {
+	width: 30px;
+	height: 20px;
+	padding: 10px 5px;
+}
+
+tr:nth-child(4) td {
+	background-color: #FF2EA2;
+	border: none;
+}
+
+.horario-apertura {
+	margin-bottom: 20px;
+}
+
+li {
+	list-style: none;
+}

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<actividades xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="actividades.xsd">
+
+	<actividad>
+			<nombre>Krav Maga</nombre>
+			<slug>krav-maga</slug>
+			<descripcion>
+				<parrafo>El krav magá o kravmagá es el sistema oficial de lucha y defensa personal usado por las Fuerzas de Defensa y Seguridad israelíes.</parrafo>
+				<parrafo>Esta forma de combate cuerpo a cuerpo incluye métodos de defensa contra uno o varios atacantes, en respuesta a una amplia y variada gama de agresiones. Abarca tanto agresiones sin armas (golpes, patadas, agarre y estrangulamiento) como con armas blancas (cuchillos, navajas, machetes, hachas) y contundentes (porras, bastones policiales, palos, bates de béisbol, botellas, piedras). También comprende técnicas de desarme y defensa contra portadores de armas de fuego de diversos tipos (cortas, largas, militares y civiles).</parrafo>
+				<parrafo>En el krav magá se utilizan todo tipo de técnicas a manos vacías (puñetazos, golpes a mano abierta, codazos, rodillazos, pisotones, patadas bajas y altas, mordiscos, cabezazos, luxaciones, barridos, lanzamientos y estrangulaciones), así como técnicas avanzadas con armas simples.</parrafo>
+			</descripcion>
+			<video>qWJlooO_4jQ</video>
+			<foto ruta="../img/actividades/kravmaga.jpg"/>
+			<monitor>Gerard Ferrer</monitor>
+			<horario>
+				<dias horas="19:30 - 21:00">LUNES, MIÉRCOLES, VIERNES</dias>
+			</horario>
+	</actividad>
+
+	<actividad>
+			<nombre>Kick Boxing</nombre>
+			<slug>kick-boxing</slug>
+			<descripcion>
+				<parrafo>El kick boxing es un deporte de combate de origen japonés y desarrollo occidental en el cual se mezclan las técnicas del boxeo con las técnicas de patadas de algunas artes marciales como el karate y el muay thai, estando así relacionado con el antiguo arte del muay thai.</parrafo>
+				<parrafo>Si bien no se lo considera un arte marcial formativo tradicional o gendai budō por excelencia, existen diversas opiniones sobre si se trata de un arte marcial o no. Se considera que un luchador de kick boxing es una competencia muy reñida para los demás peleadores de otros estilos de lucha en pie, que practican otros tipos de deportes de contacto o artes marciales, por la gran resistencia física, contundencia y aguante a los golpes de sus practicantes. </parrafo>
+				<parrafo>Actualmente es uno de los sistemas preferidos y de mayor divulgación en el desarrollo de la lucha en pie, siendo preferido en las artes marciales mixtas combinadas o MMA / AMM.</parrafo>
+			</descripcion>
+			<video>-gGx_WqKAh8</video>
+			<foto ruta="../img/actividades/kickboxing.jpg"/>
+			<monitor>Miguel Diaz</monitor>
+			<horario>
+				<dias horas="21:00 - 22:00">LUNES, MIÉRCOLES, VIERNES</dias>
+			</horario>
+	</actividad>
+
+	<actividad>
+			<nombre>Boxeo</nombre>
+			<slug>boxeo</slug>
+			<descripcion>
+				<parrafo>El boxeo es un deporte donde dos personas se enfrentan a golpes de puño con sus manos cubiertas por guantes y de acuerdo a determinadas reglas.</parrafo> 
+				<parrafo>El ganador es aquel que logra derribar a su rival sin que este pueda levantarse antes de una cuenta de diez o que, al término del combate, suma más puntos que el oponente según la opinión de un jurado.</parrafo>
+				<parrafo>Las peleas de boxeo se llevan a cabo en un cuadrilátero conocido como ring. Estos combates están divididos en secuencias llamadas rounds o asaltos. La cantidad de rounds por evento varía de acuerdo al reglamento.</parrafo>
+			</descripcion>
+			<video>mFePQV-jhcc</video>
+			<foto ruta="../img/actividades/boxeo.jpg"/>
+			<monitor>Miguel Diaz</monitor>
+			<horario>
+				<dias horas="18:00 - 19:30">LUNES, MIÉRCOLES, VIERNES</dias>
+				<dias horas="17:00 - 18:00">MARTES, JUEVES</dias>
+			</horario>
+	</actividad>
+
+	<actividad>
+			<nombre>Pilates</nombre>
+			<slug>pilates</slug>
+			<descripcion>
+				<parrafo>Pilates es un método de ejercicio y movimiento físico diseñado para estirar, fortalecer y equilibrar el cuerpo. Con la práctica sistemática de ejercicios específicos junto con los patrones de respiración, Pilates ha demostrado tener un valor incalculable no sólo para las personas que quieren mantener su condición física, sino también como un importante complemento a la práctica deportiva y rehabilitación física de todo tipo.</parrafo>
+				<parrafo>El Método Pilates no es sólo ejercicio. Se trata de una serie de movimientos controlados para el cuerpo y la mente, realizados sobre una colchoneta o aparatos especialmente concebidos para ello.</parrafo>
+				<parrafo>Pilates equilibra las asimetrías musculares, optimiza tu silueta y mejora el equilibrio, la coordinación y el control de la respiración. Pilates trabaja la flexibilidad muscular y la fuerza. Los ejercicios también ayudan a despertar la conciencia del cuerpo.</parrafo>
+			</descripcion>
+			<video>RpKLwxVG6uo</video>
+			<foto ruta="../img/actividades/pilates.jpg"/>
+			<monitor>César Torres</monitor>
+			<horario>
+				<dias horas="17:00 - 18:00">LUNES</dias>
+				<dias horas="19:30 - 21:00">MARTES, JUEVES</dias>
+			</horario>
+	</actividad>
+
+	<actividad>
+			<nombre>Zumba</nombre>
+			<slug>zumba</slug>
+			<descripcion>
+				<parrafo>La zumba es un tipo de actividad física (fitness) basada en ritmos y músicas lationamericanas. Su origen es Colombia y está extendida por todo el mundo. Las coreografías de zumba incluyen ritmos como la samba, la salsa, el reggaeton, la cumbia, el merengue y el mambo.</parrafo>
+				<parrafo>Beto Pérez, el creador de la zumba, cuenta que improvisó la primera clase de Zumba en los años 90 cuando un día se olvidó de su música para la clase de aerobic y utilizó unas cintas de salsa y merengue. La formación de esta palabra puede venir de la fusión de las palabras "zumbar" y "rumba".</parrafo>
+			</descripcion>
+			<video>zk04yLQsqN0</video>
+			<foto ruta="../img/actividades/zumba.jpg"/>
+			<monitor>Noa Romero</monitor>
+			<horario>
+				<dias horas="18:00 - 19:30">MARTES, JUEVES</dias>
+				<dias horas="17:00 - 18:00">MIÉRCOLES</dias>
+			</horario>
+	</actividad>
+
+	<actividad>
+			<nombre>Spinning</nombre>
+			<slug>spinning</slug>
+			<descripcion>
+				<parrafo>El spinning es un ejercicio aeróbico y de piernas principalmente, donde el monitor o profesor puede mediante el cambio de la frecuencia de pedaleo y de la resistencia al movimiento, realizar todo tipo de intensidades. Es una gimnasia muy adaptable al nivel del alumno, pudiendo ser tan sencilla como un paseo tranquilo o agotador hasta para un ciclista profesional.</parrafo>
+				<parrafo>El spinning tiene una gran ventaja, y es su especificidad hacia el nivel del usuario. Una clase de spinning puede variar desde una media hora de pedaleo suave sentado y con una resistencia muy baja a una sesión de fuertes cambios de ritmo y alternando de pie y sentado. Esto hace que pueda ser practicado por la mayoría de las personas indistintamente de su nivel de preparación física. Salvo casos concretos, la mayoría de los beneficios asociados a la práctica del spinning son los beneficios de la práctica de cualquier ejercicio físico.</parrafo>
+			</descripcion>
+			<video>46FP2FfdukY</video>
+			<foto ruta="../img/actividades/spinning.jpg"/>
+			<monitor>Noa Romero</monitor>
+			<horario>
+				<dias horas="10:00 - 11:00">LUNES, MARTES, MIÉRCOLES, JUEVES, VIERNES</dias>
+			</horario>
+	</actividad>
+
+	<actividad>
+			<nombre>Telas</nombre>
+			<slug>telas</slug>
+			<descripcion>
+				<parrafo>La Tela Acrobática (también conocida como: Danza Aérea, Ballet Aéreo, Tissue, Tela y otros) es una modalidad de práctica circense del grupo de los ejercicios aéreos, donde los artistas realizan evoluciones coreográficas y acrobáticas suspendidos en una tela. No solo puede considerarse una danza sino una actividad en el que se necesita de fuerza y flexibilidad. Puede ser en posición vertical o invertida, aunque actualmente, se desarrollaron nuevas formas de montar la tela: en diagonal, tela marina, tela tensa, etc.</parrafo>
+				<parrafo>Hay diferentes figuras, por ejemplo: nudo, llave de pie, llave de cintura, secretaria, desenrolada controlada, simple y doble, escorpión, apertura de piernas con dos llaves de pie, cuadrado, murciélago, arco y flecha, y muchas figuras más.</parrafo>
+				<parrafo>Existen diferentes tipos de ejercicios, que abarcan amarres, enganches, formas y piruetas, que se pueden realizar de manera individual o grupal, en una o más telas.</parrafo>
+			</descripcion>
+			<video>pJc8zOnLZZ0</video>
+			<foto ruta="../img/actividades/telas.jpg"/>
+			<monitor>César Torres</monitor>
+			<horario>
+				<dias horas="11:00 - 12:00">MARTES, JUEVES, VIERNES</dias>
+			</horario>
+	</actividad>
+
+	<actividad>
+			<nombre>Fullbody</nombre>
+			<slug>fullbody</slug>
+			<descripcion>
+				<parrafo>La característica principal de esta rutina se basa en trabajar todos los músculos en una misma sesión. Para conseguir esto nos basaremos en priorizar en nuestro entrenamiento los ejercicios multiarticulares (Ejercicios que involucran varias articulaciones), por encima de los monoarticulares o aislados.</parrafo>
+				<parrafo>Este entrenamiento es especialmente recomendable para una ganancia de masa muscular, ya que su organización nos permitirá entrenar todos los grupos musculares tres veces a la semana, dejando un día de descanso entre ellos.</parrafo>
+				<parrafo>Esto nos permitirá recuperarnos de forma rápida entre sesiones, pudiendo así realizar entrenamientos realmente intensos. No obstante su organización se puede modificar en torno a nuestras características.</parrafo>
+			</descripcion>
+			<video>qlmXd9z9c-g</video>
+			<foto ruta="../img/actividades/fullbody.jpg"/>
+			<monitor>Pedro Abad</monitor>
+			<horario>
+				<dias horas="11:00 - 12:00">LUNES, MIÉRCOLES</dias>
+				<dias horas="21:00 - 22:00">MARTES, JUEVES</dias>
+				<dias horas="17:00 - 18:00">VIERNES</dias>
+			</horario>
+	</actividad>
+</actividades>
