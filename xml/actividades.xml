@@ -11,7 +11,7 @@
 				<parrafo>En el krav magá se utilizan todo tipo de técnicas a manos vacías (puñetazos, golpes a mano abierta, codazos, rodillazos, pisotones, patadas bajas y altas, mordiscos, cabezazos, luxaciones, barridos, lanzamientos y estrangulaciones), así como técnicas avanzadas con armas simples.</parrafo>
 			</descripcion>
 			<video>qWJlooO_4jQ</video>
-			<foto ruta="../img/actividades/kravmaga.jpg"/>
+			<foto ruta="img/actividades/kravmaga.jpg"/>
 			<monitor>Gerard Ferrer</monitor>
 			<horario>
 				<dias horas="19:30 - 21:00">LUNES, MIÉRCOLES, VIERNES</dias>
@@ -27,7 +27,7 @@
 				<parrafo>Actualmente es uno de los sistemas preferidos y de mayor divulgación en el desarrollo de la lucha en pie, siendo preferido en las artes marciales mixtas combinadas o MMA / AMM.</parrafo>
 			</descripcion>
 			<video>-gGx_WqKAh8</video>
-			<foto ruta="../img/actividades/kickboxing.jpg"/>
+			<foto ruta="img/actividades/kickboxing.jpg"/>
 			<monitor>Miguel Diaz</monitor>
 			<horario>
 				<dias horas="21:00 - 22:00">LUNES, MIÉRCOLES, VIERNES</dias>
@@ -43,7 +43,7 @@
 				<parrafo>Las peleas de boxeo se llevan a cabo en un cuadrilátero conocido como ring. Estos combates están divididos en secuencias llamadas rounds o asaltos. La cantidad de rounds por evento varía de acuerdo al reglamento.</parrafo>
 			</descripcion>
 			<video>mFePQV-jhcc</video>
-			<foto ruta="../img/actividades/boxeo.jpg"/>
+			<foto ruta="img/actividades/boxeo.jpg"/>
 			<monitor>Miguel Diaz</monitor>
 			<horario>
 				<dias horas="18:00 - 19:30">LUNES, MIÉRCOLES, VIERNES</dias>
@@ -60,7 +60,7 @@
 				<parrafo>Pilates equilibra las asimetrías musculares, optimiza tu silueta y mejora el equilibrio, la coordinación y el control de la respiración. Pilates trabaja la flexibilidad muscular y la fuerza. Los ejercicios también ayudan a despertar la conciencia del cuerpo.</parrafo>
 			</descripcion>
 			<video>RpKLwxVG6uo</video>
-			<foto ruta="../img/actividades/pilates.jpg"/>
+			<foto ruta="img/actividades/pilates.jpg"/>
 			<monitor>César Torres</monitor>
 			<horario>
 				<dias horas="17:00 - 18:00">LUNES</dias>
@@ -76,7 +76,7 @@
 				<parrafo>Beto Pérez, el creador de la zumba, cuenta que improvisó la primera clase de Zumba en los años 90 cuando un día se olvidó de su música para la clase de aerobic y utilizó unas cintas de salsa y merengue. La formación de esta palabra puede venir de la fusión de las palabras "zumbar" y "rumba".</parrafo>
 			</descripcion>
 			<video>zk04yLQsqN0</video>
-			<foto ruta="../img/actividades/zumba.jpg"/>
+			<foto ruta="img/actividades/zumba.jpg"/>
 			<monitor>Noa Romero</monitor>
 			<horario>
 				<dias horas="18:00 - 19:30">MARTES, JUEVES</dias>
@@ -92,7 +92,7 @@
 				<parrafo>El spinning tiene una gran ventaja, y es su especificidad hacia el nivel del usuario. Una clase de spinning puede variar desde una media hora de pedaleo suave sentado y con una resistencia muy baja a una sesión de fuertes cambios de ritmo y alternando de pie y sentado. Esto hace que pueda ser practicado por la mayoría de las personas indistintamente de su nivel de preparación física. Salvo casos concretos, la mayoría de los beneficios asociados a la práctica del spinning son los beneficios de la práctica de cualquier ejercicio físico.</parrafo>
 			</descripcion>
 			<video>46FP2FfdukY</video>
-			<foto ruta="../img/actividades/spinning.jpg"/>
+			<foto ruta="img/actividades/spinning.jpg"/>
 			<monitor>Noa Romero</monitor>
 			<horario>
 				<dias horas="10:00 - 11:00">LUNES, MARTES, MIÉRCOLES, JUEVES, VIERNES</dias>
@@ -108,7 +108,7 @@
 				<parrafo>Existen diferentes tipos de ejercicios, que abarcan amarres, enganches, formas y piruetas, que se pueden realizar de manera individual o grupal, en una o más telas.</parrafo>
 			</descripcion>
 			<video>pJc8zOnLZZ0</video>
-			<foto ruta="../img/actividades/telas.jpg"/>
+			<foto ruta="img/actividades/telas.jpg"/>
 			<monitor>César Torres</monitor>
 			<horario>
 				<dias horas="11:00 - 12:00">MARTES, JUEVES, VIERNES</dias>
@@ -124,7 +124,7 @@
 				<parrafo>Esto nos permitirá recuperarnos de forma rápida entre sesiones, pudiendo así realizar entrenamientos realmente intensos. No obstante su organización se puede modificar en torno a nuestras características.</parrafo>
 			</descripcion>
 			<video>qlmXd9z9c-g</video>
-			<foto ruta="../img/actividades/fullbody.jpg"/>
+			<foto ruta="img/actividades/fullbody.jpg"/>
 			<monitor>Pedro Abad</monitor>
 			<horario>
 				<dias horas="11:00 - 12:00">LUNES, MIÉRCOLES</dias>

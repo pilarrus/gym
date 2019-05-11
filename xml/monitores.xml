@@ -3,37 +3,37 @@
 <monitores>
 
 	<monitor nombre="Noa" apellido="Romero">
-		<foto ruta="../img/monitores/noa.jpeg"/>
+		<foto ruta="img/monitores/noa.jpeg"/>
 		<descripcion>Experta en Zumba y Spinnig</descripcion>
 	</monitor>
 
 	<monitor nombre="Pedro" apellido="Abad">
-		<foto ruta="../img/monitores/pedro.jpeg"/>
+		<foto ruta="img/monitores/pedro.jpeg"/>
 		<descripcion>Musculación y experto en Fullbody</descripcion>
 	</monitor>
 
 	<monitor nombre="Leticia" apellido="Baldonado">
-		<foto ruta="../img/monitores/leticia.jpeg"/>
+		<foto ruta="img/monitores/leticia.jpeg"/>
 		<descripcion>Cardio</descripcion>
 	</monitor>
 
 	<monitor nombre="Marta" apellido="Correa">
-		<foto ruta="../img/monitores/marta.jpeg"/>
+		<foto ruta="img/monitores/marta.jpeg"/>
 		<descripcion>Socorrista</descripcion>
 	</monitor>
 
 	<monitor nombre="Gerard" apellido="Ferrer">
-		<foto ruta="../img/monitores/gerard.jpeg"/>
+		<foto ruta="img/monitores/gerard.jpeg"/>
 		<descripcion>Experto en Krav Maga</descripcion>
 	</monitor>
 
 	<monitor nombre="Miguel" apellido="Diaz">
-		<foto ruta="../img/monitores/miguel.jpeg"/>
+		<foto ruta="img/monitores/miguel.jpeg"/>
 		<descripcion>Experto en Kick Boxing y Boxeo</descripcion>
 	</monitor>
 
 	<monitor nombre="César" apellido="Torres">
-		<foto ruta="../img/monitores/cesar.jpeg"/>
+		<foto ruta="img/monitores/cesar.jpeg"/>
 		<descripcion>Experto en Pilates y Telas</descripcion>
 	</monitor>
 

@@ -48,7 +48,7 @@ function crearSectionActividades(actividades){
 }
 
 function fetchXml(url, cb){
-	fetch("xml/actividades.xml")
+	fetch("../xml/actividades.xml")
 	.then(response => response.text())
     .then(str => (new window.DOMParser()).parseFromString(str, "text/xml"))
     .then(data => cb(data))
@@ -114,7 +114,7 @@ function buscarDetallesClase(xmlLeido){
 }
 
 function leerActividadesXML(){
-	var url = 'xml/actividades.xml';
+	var url = '../xml/actividades.xml';
 	var clases = [];
 	fetchXml(url, function(xmlLeido){
 		var actividades = xmlLeido.getElementsByTagName('actividad');

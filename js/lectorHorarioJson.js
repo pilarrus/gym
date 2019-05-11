@@ -38,7 +38,7 @@ function createTable(json) {
 }
 
 function leerHorario(callback){
-	fetch("/js/json/horario.json")
+	fetch("json/horario.json")
 	.then(response => response.json())
     .then(data => callback(data))
 	.catch(function(err){
