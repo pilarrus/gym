@@ -15,7 +15,6 @@ function changeColorArray(color){
 
 function hacerScroll(){
   	y = document.documentElement.scrollTop;
-  	console.log(y);
 	color = 'rgb(246, 139, 52)';
 	if (y > 550 && y < 843){
 		changeColor(color);
