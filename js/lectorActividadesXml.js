@@ -35,7 +35,7 @@ function crearSectionActividades(actividades){
 
 			divContenedor.addEventListener('click', function(e){
 				var slug = e.currentTarget.getAttribute('id').substring(10);
-				window.location = '/html/' + slug + '.html';			
+				window.location = 'html/' + slug + '.html';			
 			});
 			//Añadir la actividad solo si estamos en index
 			// y no parar la carga del submenu
