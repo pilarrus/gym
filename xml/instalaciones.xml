@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="xsl/instalaciones.xsl"?>
+<!DOCTYPE instalaciones SYSTEM "dtd/instalaciones.dtd">
+<instalaciones>
+	<zona>
+		<titulo>Zona de cardio</titulo>
+		<img>../img/iconos/cardio.png</img>
+		<p>Disponemos de una amplia oferta de maquinaria de cardio. Idóneas para mejorar tu condición física y quemar unas cuantas calorías. Las máquinas que te ofrecemos son de Matrix o Technogym. Son máquinas fáciles de usar pero, en caso de que tengas alguna duda, ¡nuestros compañeros del gimnasio estarán encantados de ayudarte!</p>
+	</zona>
+
+	<zona>
+		<titulo>Zona de fuerza</titulo>
+		<img>../img/iconos/fuerza.png</img>
+		<p>En nuestro gimnasio, puedes entrenar todos los grupos musculares con las diferentes máquinas de la zona de fuerza. En las máquinas encontarás una pegatina en la que se indica los músculos que estas trabajando. Podrás adaptar todos los aparatos tanto a tu estatura como al peso con el que quieres hacer el ejercicio.</p>
+	</zona>
+
+	<zona>
+		<titulo>Zona funcional</titulo>
+		<img>../img/iconos/funcional.png</img>
+		<p>Esta zona dispone de una gran variedad de material con el que puedes realizar distintos ejercicios. Aquí podrás entrenar con; kettlebells, smartbag, power bags, material de obstáculo, guantes de boxeo, paos, combas, steps, fitballs, etc...</p>
+	</zona>
+
+	<zona>
+		<titulo>Zona de estiramiento</titulo>
+		<img>../img/iconos/estiramiento.png</img>
+		<p>En la zona de estiramiento podrás ejercitar los abdominales con materiales como rodillos de espuma y esterillas, además de estirar tus músculos después del entrenamiento. En esta zona trabajarás tu estabilidad.</p>
+	</zona>
+
+	<zona>
+		<titulo>Clases colectivas</titulo>
+		<img>../img/iconos/clases.png</img>
+		<p>En el gimnasio Healthy Mind ofrecemos clases colectivas con monitor. Nuestros instructores te motivarán para que lo des todo y te darán consejos para realizar correctamente tu entrenamiento. Cada tres meses actualizamos nuestras clases colectivas con monitor, y cada dos meses las clases, por lo que disfrutarás de una experiencia única.</p>
+	</zona>
+
+	<zona>
+		<titulo>Piscina</titulo>
+		<img>../img/iconos/piscina.png</img>
+		<p>En la zona de piscina, tu condición física se pondrá a prueba con nuestras clases. En el horario de las clases colectivas de tu gym podrás ver el horario de las mismas, así como hacer una por tu cuenta en cualquier momento del día. ¡Coge tus gafas y tu gorro, póntelos y empieza a trabajar los músculos de tus piernas!</p>
+	</zona>
+</instalaciones>

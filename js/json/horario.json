@@ -1,0 +1,38 @@
+{
+	"clases": [
+		{ "nombre": "Spinning", "dia": 0, "inicio": 10},
+		{ "nombre": "Fullbody", "dia": 0, "inicio": 11},
+		{ "nombre": "Pilates", "dia": 0, "inicio": 18},
+		{ "nombre": "Boxeo", "dia": 0, "inicio": 19},
+		{ "nombre": "Krav Maga", "dia": 0, "inicio": 20},
+		{ "nombre": "Kick Boxing", "dia": 0, "inicio": 21},
+		
+		{ "nombre": "Spinning", "dia": 1, "inicio": 10},
+		{ "nombre": "Telas",    "dia": 1, "inicio": 11},
+		{ "nombre": "Boxeo", "dia": 1, "inicio": 18},
+		{ "nombre": "Zumba", "dia": 1, "inicio": 19},
+		{ "nombre": "Pilates", "dia": 1, "inicio": 20},
+		{ "nombre": "Fullbody", "dia": 1, "inicio": 21},
+				
+		{ "nombre": "Spinning", "dia": 2, "inicio": 10},
+		{ "nombre": "Fullbody",    "dia": 2, "inicio": 11},
+		{ "nombre": "Zumba", "dia": 2, "inicio": 18},
+		{ "nombre": "Boxeo", "dia": 2, "inicio": 19},
+		{ "nombre": "Krav Maga", "dia": 2, "inicio": 20},
+		{ "nombre": "Kick Boxing", "dia": 2, "inicio": 21},
+				
+		{ "nombre": "Spinning", "dia": 3, "inicio": 10},
+		{ "nombre": "Telas",    "dia": 3, "inicio": 11},
+		{ "nombre": "Boxeo", "dia": 3, "inicio": 18},
+		{ "nombre": "Zumba", "dia": 3, "inicio": 19},
+		{ "nombre": "Pilates", "dia": 3, "inicio": 20},
+		{ "nombre": "Fullbody", "dia": 3, "inicio": 21},
+				
+		{ "nombre": "Spinning", "dia": 4, "inicio": 10},
+		{ "nombre": "Telas", "dia": 4, "inicio": 11},
+		{ "nombre": "Fullbody",    "dia": 4, "inicio": 18},
+		{ "nombre": "Boxeo", "dia": 4, "inicio": 19},
+		{ "nombre": "Krav Maga", "dia": 4, "inicio": 20},
+		{ "nombre": "Kick Boxing", "dia": 4, "inicio": 21}
+	]
+}

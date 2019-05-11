@@ -1,0 +1,15 @@
+<!ELEMENT actividades (actividad+)>
+<!ELEMENT actividad (nombre, slug, descripcion, video, foto, monitor, horario)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT slug (#PCDATA)>
+<!ELEMENT descripcion (parrafo+)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT video (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ATTLIST foto
+          ruta CDATA #REQUIRED>
+<!ELEMENT monitor (#PCDATA)>
+<!ELEMENT horario (dias+)>
+<!ELEMENT dias (#PCDATA)>
+<!ATTLIST dias
+          horas CDATA #REQUIRED>

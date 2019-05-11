@@ -1,0 +1,5 @@
+<!ELEMENT instalaciones (zona+)>
+<!ELEMENT zona (titulo, img, p)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT img (#PCDATA)>
+<!ELEMENT p (#PCDATA)>

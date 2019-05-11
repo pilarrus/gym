@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="xsl/tarifas.xsl"?>
+<!DOCTYPE tarifas SYSTEM "dtd/tarifas.dtd">
+<tarifas>
+	<tarifa>
+		<titulo>Tarifa básica</titulo>
+		<p>Disfruta de tu actividad preferida entre todas las que te ofrecemos.</p>
+		<tiempo>
+			<meses>1 mes</meses>
+			<meses>3 meses</meses>
+			<meses>6 meses</meses>
+			<meses>1 año</meses>
+		</tiempo>
+		<precio>
+			<euros>35€</euros>
+			<euros>85€</euros>
+			<euros>155€</euros>
+			<euros>275€</euros>
+		</precio>
+	</tarifa>
+
+	<tarifa>
+		<titulo>Tarifa exclusiva</titulo>
+		<p>Disfruta de todas nuestras actividades.</p>
+		<tiempo>
+			<meses>1 mes</meses>
+			<meses>3 meses</meses>
+			<meses>6 meses</meses>
+			<meses>1 año</meses>
+		</tiempo>
+		<precio>
+			<euros>42€</euros>
+			<euros>99€</euros>
+			<euros>185€</euros>
+			<euros>350€</euros>
+		</precio>
+	</tarifa>
+</tarifas>

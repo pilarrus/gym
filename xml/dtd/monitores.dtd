@@ -1,0 +1,9 @@
+<!ELEMENT monitores (monitor+)>
+<!ELEMENT monitor (foto, descripcion)>
+<!ATTLIST monitor
+          apellido CDATA #REQUIRED
+          nombre CDATA #REQUIRED>
+<!ELEMENT foto (#PCDATA)>
+<!ATTLIST foto
+          ruta CDATA #REQUIRED>
+<!ELEMENT descripcion (#PCDATA)>

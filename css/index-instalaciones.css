@@ -7,10 +7,6 @@ section.instalaciones {
 
 article.explicacion {
 	width: 500px;
-	/*display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-content: center;*/
 }
 
 div.contenedor-instalaciones {
@@ -48,25 +44,15 @@ article.zona:hover img.icono {
 
 article.zona:hover p.texto{
 	display:block;
-	/*text-align: center;*/
 }
 
 h3.titulo {
-	/*width: 100%;
-	height: 100%;*/
 	display: flex;
 	justify-content: center;
 	align-content: center;
-	/*margin-top: 90px;*/
-}
-
-img.icono {
-
 }
 
 p.texto {
 	display: none;
 	width: 85%;
-	/*height: 100%;
-	background-color: #FF2EA2;*/
 }

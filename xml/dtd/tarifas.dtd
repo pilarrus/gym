@@ -1,0 +1,8 @@
+<!ELEMENT tarifas (tarifa+)>
+<!ELEMENT tarifa (titulo, p, tiempo, precio)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT tiempo (meses+)>
+<!ELEMENT meses (#PCDATA)>
+<!ELEMENT precio (euros+)>
+<!ELEMENT euros (#PCDATA)>

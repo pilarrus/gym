@@ -1,0 +1,110 @@
+body {
+	background-color: #FF2EA2 !important;
+}
+
+/*---SECTION1--*/
+section.identificar {
+	height: 450px;
+	margin-top: 50px;
+	padding: 0;
+	background-color: #000;
+}
+
+div.box-identificacion {
+	width: 345px;
+	height: 165px;
+	border: 1px solid #fff;
+	background-color: #FF2EA2;
+}
+
+div.box-identificacion p {
+	padding: 10px 0;
+}
+
+form.formulario-reserva {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+div.box-identificacion input {
+	margin-bottom: 10px;
+}
+
+span {
+	color: rgb(246, 139, 52);
+}
+
+/*---SECTION2--*/
+section.info-usuario {
+	height: 450px;
+	margin-top: 50px;
+	padding: 0;
+	background-color: #000;
+	display: none;
+}
+
+.contenedor-info {
+	border: 1px solid #fff;
+	background-color: #FF2EA2;
+	width: 400px;
+
+	height: 247px;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.cabecera {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 5px;
+}
+
+h3 {
+	background-color: rgb(246, 139, 52);
+}
+
+.icon {
+	position: absolute;
+	top: 7px;
+	right: 7px;
+	padding: 5px;
+}
+
+.icon:hover {
+	background-color: rgb(246, 139, 52);
+}
+
+.icon img {
+	width: 25px;
+	height: 25px;
+	
+}
+
+.usuario {
+	display: flex;
+	flex-direction: row;
+}
+
+.usuario div {
+	padding: 10px;
+}
+
+.usuario img {
+	width: 100px;
+	height: 110px;
+}
+
+.usuario p {
+	padding: 5px;
+}
+
+footer {
+	margin-top: 0px !important;
+}

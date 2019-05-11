@@ -4,7 +4,6 @@
 
 section#listaActividades {
 	margin: auto;
-    /*display: flex;*/
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
@@ -17,9 +16,6 @@ div.actividad {
     padding: 40px;
     width: 17%;
     height: 120px;
-    /*text-align: center;*/
-    /*background-image: attr(image);*/
-    /*background-image: url(../img/actividades/kickboxing.jpg);*/
     background-size: cover;
     opacity: 1;
     transition: opacity 1s;
@@ -40,7 +36,7 @@ div.actividad:hover div.actividad-nombre {
     display: block;
 	font-weight: bold;
     font-size: 3em;
-    /*opacity: 1;*/
     background-color: #FF2EA2;
     text-align: center;
+    z-index: 0;
 }

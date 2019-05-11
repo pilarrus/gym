@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<monitores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="monitores.xsd">
+<!DOCTYPE monitores SYSTEM "dtd/monitores.dtd">
+<monitores>
 
 	<monitor nombre="Noa" apellido="Romero">
 		<foto ruta="../img/monitores/noa.jpeg"/>

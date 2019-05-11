@@ -5,10 +5,11 @@
 section.listaMonitores {
 	display: flex;
 	flex-direction: row;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     justify-content: center;
     align-items: center;
     background-color: #FF2EA2;
+    min-height: 227px;
 }
 
 div.monitor {
@@ -28,7 +29,6 @@ div.monitor {
 div.monitor:hover {
 	width: 175px;
 	height: 175px;
-	
 }
 
 img.monitor-foto {

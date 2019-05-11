@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<actividades xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="actividades.xsd">
+<!DOCTYPE actividades SYSTEM "dtd/actividades.dtd">
+<actividades>
 
 	<actividad>
 			<nombre>Krav Maga</nombre>

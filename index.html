@@ -6,20 +6,20 @@
 	<link rel="stylesheet" type="text/css" href="css/index-actividades.css">
 	<link rel="stylesheet" type="text/css" href="css/index-horario.css">
 	<link rel="stylesheet" type="text/css" href="css/index-monitores.css">
-	<link rel="stylesheet" type="text/css" href="css/index-instalaciones.css">
-	<link rel="stylesheet" type="text/css" href="css/index-precios.css">
 	<link rel="stylesheet" type="text/css" href="css/index-contacto.css">
 	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<title>Gym</title>
 </head>
 <body>
 	<header>
-		<nav class="container-nav">
+		<nav id="container-nav" class="container-nav">
 			<a href="index.html" class="nav__logo">
 				<img src="img/logo/logo.png" alt="logo">
 			</a>
 			
 			<div class="elementos-nav">
+				<audio src="audio/song.mp3" autoplay controls height="25px"></audio>
+
 				<ul class="nav">
 					<li class="botones">
 						<a href="#actividades">Actividades</a>
@@ -42,13 +42,15 @@
 				</ul>
 				<ul class="bordes">
 					<li class="borde">
-						<a href="html/reservar-clase.html">Reservar clase</a>
+						<a href="html/entrar.html">Entrar</a>
 					</li>
 				</ul>
 			</div>
 		</nav>
 	</header>
+	<div class="relleno"></div>
 	<main>
+
 		<div class="slider">
 			<ul>
 				<li>
@@ -65,6 +67,7 @@
 				</li>
 			</ul>
 		</div>
+
 		<div class="contenedor">
 			<section>
 				<article>
@@ -101,96 +104,15 @@
 			<section id="listaMonitores" class="listaMonitores"></section>
 
 			<h2 id="instalaciones">Instalaciones</h2>
-		
-			<section class="instalaciones">
-				<article class="explicacion">
-					<h3>Explicación de las diferentes zonas de entrenamiento del gimnasio</h3>
-					<p>¿Eres nuevo en Healthy Mind y quieres sentirte como en casa cuando estes entrenando?</p>
-					<p>A continuación te mostraremos todas las zonas de entrenamiento de tu gimnasio para que sepas qué encontrarás en tu gimnasio y qué zona debes utilizar para hacer cada ejercicio.</p>
-				</article>
-		
-				<div class="contenedor-instalaciones">
-					<article class="zona">
-						<h3 class="titulo">Zona de cardio</h3>
-						<img src="img/iconos/cardio.png" alt="" class="icono">
-						<p class="texto">Disponemos de una amplia oferta de maquinaria de cardio. Idóneas para mejorar tu condición física y quemar unas cuantas calorías. Las máquinas que te ofrecemos son de Matrix o Technogym. Son máquinas fáciles de usar pero, en caso de que tengas alguna duda, ¡nuestros compañeros del gimnasio estarán encantados de ayudarte!</p>
-					</article>
+			<iframe src="xml/instalaciones.xml" frameborder="0" class="instalaciones"></iframe>
 			
-					<article class="zona">
-						<h3 class="titulo">Zona de fuerza</h3>
-						<img src="img/iconos/fuerza.png" alt="" class="icono">
-						<p class="texto">En nuestro gimnasio, puedes entrenar todos los grupos musculares con las diferentes máquinas de la zona de fuerza. En las máquinas encontarás una pegatina en la que se indica los músculos que estas trabajando. Podrás adaptar todos los aparatos tanto a tu estatura como al peso con el que quieres hacer el ejercicio.</p>
-					</article>
-
-					<article class="zona">
-						<h3 class="titulo">Zona funcional</h3>
-						<img src="img/iconos/funcional.png" alt="" class="icono">
-						<p class="texto">Esta zona dispone de una gran variedad de material con el que puedes realizar distintos ejercicios. Aquí podrás entrenar con; kettlebells, smartbag, power bags, material de obstáculo, guantes de boxeo, paos, combas, steps, fitballs, etc....</p>
-					</article>
-				
-					<article class="zona">
-						<h3 class="titulo">Zona de estiramiento</h3>
-						<img src="img/iconos/estiramiento.png" alt="" class="icono">
-						<p class="texto">En la zona de estiramiento podrás ejercitar los abdominales con materiales como rodillos de espuma y esterillas, además de estirar tus músculos después del entrenamiento. En esta zona trabajarás tu estabilidad.</p>
-					</article>
-				
-					<article class="zona">
-						<h3 class="titulo">Clases colectivas</h3>
-						<img src="img/iconos/clases.png" alt="" class="icono">
-						<p class="texto">En todos los gimnasios Basic-Fit podrás entrenar en nuestras clases virtuales GXR sin coste adicional. Además también ofrecemos clases colectivas con monitor (5,00 EUR por cuatro semanas). Nuestros instructores te motivarán para que lo des todo y te darán consejos para realizar correctamente tu entrenamiento. Cada tres meses actualizamos nuestras clases colectivas con monitor, y cada dos meses las clases virtuales GXR, por lo que disfrutarás de una experiencia única.</p>
-					</article>
-
-					<article class="zona">
-						<h3 class="titulo">Piscina</h3>
-						<img src="img/iconos/piscina.png" alt="" class="icono">
-						<p class="texto">En la zona de Virtual Cycling, tu condición física se pondrá a prueba con nuestras clases de Virtual Cycling que seguirás a través de una pantalla. En el horario de las clases colectivas de tu gym podrás ver el horario de las mismas, así como hacer una por tu cuenta en cualquier momento del día. ¡Coge tus auriculares, conéctalos a una de las bicicletas y empieza a trabajar los músculos de tus piernas!</p>
-					</article>
-				</div>
-			</section>
 
 			<h2 id="precios">Precios</h2>
-			<section class="contenedor-precios">
-				<div class="box box-basica">
-					<h3>Tarifa básica</h3>
-					<p>Disfruta de tu actividad preferida entre todas las que te ofrecemos.</p>
-					<table class="tarifas">
-						<tr>
-							<th class="meses">1 mes</th>
-							<th class="meses">3 meses</th>
-							<th class="meses">6 meses</th>
-							<th class="meses">1 año</th>
-						</tr>
-						<tr>
-							<td class="euros">35€</td>
-							<td class="euros">85€</td>
-							<td class="euros">155€</td>
-							<td class="euros">275€</td>
-						</tr>
-					</table>
-				</div>
-				
-				<div class="box box-exclusiva">
-					<h3>Tarifa exclusiva</h3>
-					<p>Disfruta de todas nuestras actividades.</p>
-					<table class="tarifas">
-						<tr>
-							<th class="meses">1 mes</th>
-							<th class="meses">3 meses</th>
-							<th class="meses">6 meses</th>
-							<th class="meses">1 año</th>
-						</tr>
-						<tr>
-							<td class="euros">42€</td>
-							<td class="euros">99€</td>
-							<td class="euros">185€</td>
-							<td class="euros">350€</td>
-						</tr>
-					</table>
-				</div>
-			</section>
+			<iframe src="xml/tarifas.xml" frameborder="0" class="tarifas"></iframe>
 
 			<h2 id="contacto">Contacto</h2>
 			<section class="contacto">
+
 				<address class="direccion">
 					<img src="../img/iconos/ubicacion.png" alt="">
 					<p>Calle alguna, 25, Torrelodones</p>
@@ -216,30 +138,36 @@
 						</div>
 						
 						<textarea name="" id="" cols="30" rows="10" placeholder="Mensaje..."></textarea>
+						
 						<div class="contenedor-privacidad">
 							<input type="checkbox" class="privacidad">
 							<p class="privacidad">Acepto la Política de Privacidad</p>
 						</div>
 						
-						<input type="submit" class="enviar">
+						<input type="submit" class="enviar" value="Enviar">
 					</form>
 				</div>
+				
 			</section>
 		</div>
 	</main>
 
 	<footer>
 		<div class="redes-sociales">
-			<a href="http://twitter.com/AQUI_TU_USUARIO" target="_blank"><img src="https://lh6.googleusercontent.com/--aIk2uBwEKM/T3nN1x09jBI/AAAAAAAAAs8/qzDsbw3kEm8/s32/twitter32.png" width=32 height=32 alt="Síguenos en Twitter" /></a>
-			<a href="http://www.facebook.com/AQUI_TU_PAGINA" target="_blank"><img alt="Siguenos en Facebook" src="https://lh6.googleusercontent.com/-CYt37hfDnQ8/T3nNydojf_I/AAAAAAAAAr0/P5OtlZxV4rk/s32/facebook32.png" width=32 height=32  /></a>
-			<a href="URL_DE_TU_PERFIL_INSTRAGRAM" target="_blank"><img alt="Siguenos en Blogger" src="https://lh5.googleusercontent.com/-2cd4qn_7yDs/UIqEfqncDaI/AAAAAAAABfw/qhUaWfiH7DU/s32/instagram32.png" width=32 height=32  /></a>
+			<a href="http://twitter.com" target="_blank"><img src="https://lh6.googleusercontent.com/--aIk2uBwEKM/T3nN1x09jBI/AAAAAAAAAs8/qzDsbw3kEm8/s32/twitter32.png"alt="Síguenos en Twitter"/></a>
+
+			<a href="http://www.facebook.com" target="_blank"><img alt="Siguenos en Facebook" src="https://lh6.googleusercontent.com/-CYt37hfDnQ8/T3nNydojf_I/AAAAAAAAAr0/P5OtlZxV4rk/s32/facebook32.png"/></a>
+
+			<a href="https://www.instagram.com" target="_blank"><img alt="Siguenos en Blogger" src="https://lh5.googleusercontent.com/-2cd4qn_7yDs/UIqEfqncDaI/AAAAAAAABfw/qhUaWfiH7DU/s32/instagram32.png"/></a>
 		</div>
 
 		<p>2019 Healthy Mind, SL. Todos los derechos reservados &copy</p>
 	</footer>
 	
-	<script src="./js/horario.js"></script>
-	<script src="./js/lectorXml.js"></script>
-	<script src="./js/lectorMonitoresXml.js"></script>
+	<script src="/js/lectorActividadesXml.js"></script>
+	<script src="/js/lectorHorarioJson.js"></script>
+	<script src="/js/lectorMonitoresXml.js"></script>
+	<script src="/js/envioForm.js"></script>
+	<script src="/js/cambiarColor.js"></script>
 </body>
 </html>
