@@ -11,7 +11,7 @@ function crearItemSubmenu(nombre, slug){
 	var li = document.createElement('li');
 	li.setAttribute('class', 'subli');
 	var a = document.createElement('a');
-	a.setAttribute('href=', '"html/' + slug + '.html"');
+	a.setAttribute('href', 'html/' + slug + '.html');
 	a.innerHTML = nombre;
 	li.append(a);
 	ulSubmenu.append(li);
